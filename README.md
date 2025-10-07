@@ -19,9 +19,9 @@ Each entry in result.json represents either a groundtruth mask or a generated ma
     "image_path": "output/63509/mask.png", 
     "label": "wrong-instance", (category of noise)
     "iou": 0.0,
-    "indices": [ (the indices of the SAM-generated masks used to generate the final mask image)
+    "indices": [ 
       11
-    ],
+    ], (the indices of the SAM-generated masks used to generate the final mask image)
     "bbox": null (bbox used to generate the mask)
 }
 ```

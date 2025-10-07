@@ -9,7 +9,7 @@ output
 │...
 │ 
 └── result.json
-
+```
 Each folder (named with image id) contains the groundtruth mask image and generated noisy mask images.
 Each entry in result.json represents either a groundtruth mask or a generated mask.
 ```

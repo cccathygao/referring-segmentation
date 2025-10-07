@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      11
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_1.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      64
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_3.png",
+    "label": "under-seg",
+    "iou": 0.5724510982406295,
+    "indices": [
+      15
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_4.png",
+    "label": "over-seg",
+    "iou": 0.4150165776386075,
+    "indices": [
+      2,
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.8669616661055264,
+    "indices": [
+      8,
+      64
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.5302094364042829,
+    "indices": [
+      8,
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.4531992457573853,
+    "indices": [
+      4,
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_8.png",
+    "label": "under-seg",
+    "iou": 0.789845160584341,
+    "indices": [
+      10
+    ],
+    "bbox": null
+  },
+  {
+    "id": "63509",
+    "problem": "back left guy",
+    "image_path": "output/63509/mask_9.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask_1.png",
+    "label": "under-seg",
+    "iou": 0.6347824611416548,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.49851388871900876,
+    "indices": [
+      3,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask_3.png",
+    "label": "under-seg",
+    "iou": 0.26526899272257365,
+    "indices": [
+      7
+    ],
+    "bbox": null
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask_4.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      8,
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "58376",
+    "problem": "bald guy far left and man far right",
+    "image_path": "output/58376/mask_5.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      9,
+      11
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask.png",
+    "label": "under-seg",
+    "iou": 0.945169937111241,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_1.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_2.png",
+    "label": "under-seg",
+    "iou": 0.4296562269142887,
+    "indices": [
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_3.png",
+    "label": "background",
+    "iou": 0.4295347037068891,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_4.png",
+    "label": "under-seg",
+    "iou": 0.4295347037068891,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_5.png",
+    "label": "wrong-instance",
+    "iou": 0.03176564470872912,
+    "indices": [
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.6489417032246393,
+    "indices": [
+      0,
+      4,
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_7.png",
+    "label": "wrong-instance",
+    "iou": 0.7380949319067399,
+    "indices": [
+      0,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "96857",
+    "problem": "girl in black and white right and woman in navy shirt with birds on it",
+    "image_path": "output/96857/mask_8.png",
+    "label": "over-seg",
+    "iou": 0.7799203164655674,
+    "indices": [
+      0,
+      9,
+      54
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_1.png",
+    "label": "over-seg",
+    "iou": 0.39079574310251364,
+    "indices": [
+      1,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_2.png",
+    "label": "over-seg",
+    "iou": 0.38957677575941446,
+    "indices": [
+      0,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_3.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_4.png",
+    "label": "over-seg",
+    "iou": 0.46521448707643187,
+    "indices": [
+      2,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.6395287306231713,
+    "indices": [
+      3,
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "42391",
+    "problem": "dudes shirt",
+    "image_path": "output/42391/mask_6.png",
+    "label": "under-seg",
+    "iou": 0.1408708643581773,
+    "indices": [
+      14
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask.png",
+    "label": "over-seg",
+    "iou": 0.0813198251830516,
+    "indices": [
+      0,
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_1.png",
+    "label": "over-seg",
+    "iou": 0.5250897707393426,
+    "indices": [
+      1,
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_2.png",
+    "label": "under-seg",
+    "iou": 0.6124864549470701,
+    "indices": [
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_3.png",
+    "label": "over-seg",
+    "iou": 0.6527038626609442,
+    "indices": [
+      1,
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_4.png",
+    "label": "under-seg",
+    "iou": 0.22212573810350816,
+    "indices": [
+      7
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask.png",
+    "label": "over-seg",
+    "iou": 0.5114131029663121,
+    "indices": [
+      1,
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.5278111985192041,
+    "indices": [
+      1,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_6.png",
+    "label": "offset",
+    "iou": 0.948208496134342,
+    "indices": [
+      1,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "39038",
+    "problem": "black cow left",
+    "image_path": "output/39038/mask_7.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_1.png",
+    "label": "over-seg",
+    "iou": 0.9537859991834428,
+    "indices": [
+      1,
+      25
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_2.png",
+    "label": "over-seg",
+    "iou": 0.7451023687729241,
+    "indices": [
+      1,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_3.png",
+    "label": "over-seg",
+    "iou": 0.7833651465125877,
+    "indices": [
+      1,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_4.png",
+    "label": "wrong-instance",
+    "iou": 1.2295132357099823e-05,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_5.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_6.png",
+    "label": "under-seg",
+    "iou": 0.03740231042942792,
+    "indices": [
+      23
+    ],
+    "bbox": null
+  },
+  {
+    "id": "15146",
+    "problem": "front sheep",
+    "image_path": "output/15146/mask_7.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_1.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_3.png",
+    "label": "over-seg",
+    "iou": 0.16743020140029388,
+    "indices": [
+      5,
+      18
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_4.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.19668302589270603,
+    "indices": [
+      7,
+      18
+    ],
+    "bbox": null
+  },
+  {
+    "id": "33723",
+    "problem": "person on faaar right",
+    "image_path": "output/33723/mask_6.png",
+    "label": "under-seg",
+    "iou": 0.520165528113505,
+    "indices": [
+      16
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_1.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_2.png",
+    "label": "over-seg",
+    "iou": 0.2322135888298183,
+    "indices": [
+      1,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_3.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_4.png",
+    "label": "over-seg",
+    "iou": 0.21497723019676138,
+    "indices": [
+      0,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_5.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_6.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.5725232621784346,
+    "indices": [
+      4,
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_8.png",
+    "label": "under-seg",
+    "iou": 0.0,
+    "indices": [
+      16
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_9.png",
+    "label": "under-seg",
+    "iou": 0.48941188031248467,
+    "indices": [
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "12149",
+    "problem": "car left of motorcycle",
+    "image_path": "output/12149/mask_10.png",
+    "label": "over-seg",
+    "iou": 0.8450189208724861,
+    "indices": [
+      4,
+      26
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask.png",
+    "label": "under-seg",
+    "iou": 0.0,
+    "indices": [
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_1.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_2.png",
+    "label": "over-seg",
+    "iou": 0.0,
+    "indices": [
+      1,
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_3.png",
+    "label": "over-seg",
+    "iou": 0.06882508654041947,
+    "indices": [
+      2,
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_4.png",
+    "label": "under-seg",
+    "iou": 0.0,
+    "indices": [
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_5.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.0,
+    "indices": [
+      2,
+      6
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.0,
+    "indices": [
+      2,
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_8.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      32
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_9.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      13
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_10.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      21
+    ],
+    "bbox": null
+  },
+  {
+    "id": "91171",
+    "problem": "the man in navy blue shirt and glasses bottom left and the bike stopping on the right bottom corner",
+    "image_path": "output/91171/mask_11.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      28,
+      36
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_1.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      0,
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_2.png",
+    "label": "over-seg",
+    "iou": 0.28692771248602517,
+    "indices": [
+      0,
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_3.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      3
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_4.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      7
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.4455854329875079,
+    "indices": [
+      7,
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_6.png",
+    "label": "under-seg",
+    "iou": 0.43751769702689947,
+    "indices": [
+      18
+    ],
+    "bbox": null
+  },
+  {
+    "id": "23629",
+    "problem": "bottle of dark soda",
+    "image_path": "output/23629/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.7258899006622517,
+    "indices": [
+      8,
+      19
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_1.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      0,
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.34477174767223107,
+    "indices": [
+      2,
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_3.png",
+    "label": "under-seg",
+    "iou": 0.8464512333487414,
+    "indices": [
+      9,
+      21
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_4.png",
+    "label": "under-seg",
+    "iou": 0.6440677966101694,
+    "indices": [
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_5.png",
+    "label": "under-seg",
+    "iou": 0.3404747874400202,
+    "indices": [
+      21
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.697724708537044,
+    "indices": [
+      5,
+      21,
+      25
+    ],
+    "bbox": null
+  },
+  {
+    "id": "24141",
+    "problem": "two bananas together on right middle",
+    "image_path": "output/24141/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.6332451574366413,
+    "indices": [
+      5,
+      13,
+      21
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_1.png",
+    "label": "wrong-instance",
+    "iou": 0.00045934772622875517,
+    "indices": [
+      2
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_3.png",
+    "label": "under-seg",
+    "iou": 0.44482320942883047,
+    "indices": [
+      7
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_4.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_5.png",
+    "label": "wrong-category",
+    "iou": 0.0,
+    "indices": [
+      18
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_6.png",
+    "label": "under-seg",
+    "iou": 0.7816743715689107,
+    "indices": [
+      7,
+      11
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_7.png",
+    "label": "under-seg",
+    "iou": 0.6292519458057076,
+    "indices": [
+      11,
+      15
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_8.png",
+    "label": "wrong-instance",
+    "iou": 0.45266700441485125,
+    "indices": [
+      20,
+      22
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_9.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      24,
+      25,
+      26
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_10.png",
+    "label": "over-seg",
+    "iou": 0.5587885985748219,
+    "indices": [
+      7,
+      8,
+      11
+    ],
+    "bbox": null
+  },
+  {
+    "id": "60466",
+    "problem": "left group of oranges",
+    "image_path": "output/60466/mask_11.png",
+    "label": "over-seg",
+    "iou": 0.4678091709124595,
+    "indices": [
+      1,
+      7,
+      11,
+      22
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_1.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      0
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_2.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      1
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_3.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      5
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_4.png",
+    "label": "over-seg",
+    "iou": 0.5546932886167765,
+    "indices": [
+      4,
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_5.png",
+    "label": "over-seg",
+    "iou": 0.4001350286935974,
+    "indices": [
+      0,
+      4
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.6264423500396371,
+    "indices": [
+      4,
+      17
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_6.png",
+    "label": "over-seg",
+    "iou": 0.47597376522553875,
+    "indices": [
+      4,
+      17,
+      20
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_7.png",
+    "label": "over-seg",
+    "iou": 0.6568459939967675,
+    "indices": [
+      4,
+      20
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_8.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      17
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_9.png",
+    "label": "wrong-category",
+    "iou": 7.834534628643058e-05,
+    "indices": [
+      9
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_10.png",
+    "label": "wrong-instance",
+    "iou": 0.0,
+    "indices": [
+      38
+    ],
+    "bbox": null
+  },
+  {
+    "id": "81103",
+    "problem": "girl in aqua on left seated",
+    "image_path": "output/81103/mask_11.png",
+    "label": "background",
+    "iou": 0.0,
+    "indices": [
+      8
+    ],
+    "bbox": null
+  },
+  {
+    "id": "16702",
+    "problem": "guy in jean shorts standing",
+    "image_path": "output/16702/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  },
+  {
+    "id": "16702",
+    "problem": "guy in jean shorts standing",
+    "image_path": "output/16702/groundtruth_mask.png",
+    "label": "groundtruth",
+    "iou": 1.0
+  }
+]

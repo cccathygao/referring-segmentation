@@ -1,0 +1,12 @@
+8 groundtruth
+
+1 background x
+10 under-seg x
+15 under-seg x
+2 8 over-seg x
+4 8 over-seg x
+8 9 over-seg x
+8 64 over-seg x
+5 wrong-instance x
+11 wrong-instance x
+64 wrong-instance x
